@@ -22,7 +22,7 @@ connectDB();
 
 // Allowed frontend origins
 const allowedOrigins = [
-  "https://restaurant-management-system-fronte-kohl.vercel.app",
+  "https://restaurant-management-system-frontend-jutqfdyxv-vishuweb-dev.vercel.app/",
   "http://localhost:5173",
 ];
 
